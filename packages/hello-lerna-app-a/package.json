@@ -1,10 +1,9 @@
 {
-  "name": "hello-express",
-  "version": "0.0.7",
+  "name": "hello-lerna-app-a",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "masaru-takano",
